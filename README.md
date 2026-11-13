@@ -1,6 +1,6 @@
 # Applied Programming for AI - Mini-project 1: Service Ticket Data Pipeline
 
-**Author:** Mohamed Jlidi - Student number: <YOUR STUDENT NUMBER>
+**Author:** Mohamed Jlidi - Student number: <a22601339>
 
 ## Dependencies
 Python 3.10+, `numpy`, `pandas`, `jupyter` (`pip install numpy pandas jupyter`).
