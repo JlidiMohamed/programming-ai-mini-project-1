@@ -22,4 +22,4 @@ Row balance: 84 = 3 duplicates + 4 rejected + 77 retained. Retained IDs are well
 Open `project_1_student.ipynb` in Google Colab, upload `service_tickets.csv` in the Files panel, choose Runtime > Restart and run all. Outputs are written to `outputs/`. Locally: `pip install numpy pandas jupyter`, then run the notebook from the repository root.
 
 ## Assistance used
-Describe the assistance you used here (e.g. an AI assistant helped draft the code structure; I reviewed, ran and can explain every step).
+I used Claude (an AI assistant by Anthropic) to help structure the notebook and draft the pipeline code. I ran the notebook myself in Google Colab on the supplied service_tickets.csv, reviewed each step, and checked the outputs against the brief’s acceptance checks.
