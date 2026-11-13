@@ -1,1 +1,18 @@
-
+{
+  "raw_count": 84,
+  "exact_duplicates_removed": 3,
+  "rejected_count": 4,
+  "retained_count": 77,
+  "unknown_channel_count": 2,
+  "unknown_priority_count": 2,
+  "imputed_duration_count": 3,
+  "unavailable_satisfaction_count": 3,
+  "duration_fill_value": 59,
+  "duration_mean": 59.589610389610385,
+  "duration_std_population": 30.595274163617248,
+  "rejection_reason_counts": {
+    "unparseable_date": 1,
+    "missing_id": 1,
+    "conflicting_id": 2
+  }
+}
